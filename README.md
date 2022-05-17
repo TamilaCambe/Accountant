@@ -9,8 +9,8 @@
  
  ## Explanation 📑
  
- <p> Small project made at DIO's Spread Fullstack bootcamp. It is a simple counter from 1 to 1000, in positive and negative numbers. At each click a number is added and to zero, just click on reset.
-When you reach the limit number, an alert is triggered, asking you to refresh the page to start over if you wish. <p>
+ <p> Small project made at DIO's Spread Fullstack bootcamp. It is a simple counter from 1 to 1000 in positive and negative numbers. At each click a number is added and to zero just click on reset.
+When you reach the limit number an alert is triggered, asking you to refresh the page to start over if you wish. <p>
  
  ## 💻 Technologies used
 
